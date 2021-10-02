@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    background-color: #000000;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Tangerine', cursive;
+}
+header{
+color: white;
+font-size: 30px;
+margin-left: auto;
+margin-right: auto;
+max-width: 600px;
+margin-bottom: 50px;
+}
+#hp{
+    height:150px;
+    width:500px;
+    margin-left: 20px;
+    margin-right: auto;
+    
+}
+#hp:hover{
+    background-image: url("https://www.gamersdecide.com/sites/default/files/authors/u157391/harry-potter-dobby.jpg");
+    background-size: cover;
+
+}
+#hd{
+    margin-left: 20px;
+    margin-right: auto;
+    -webkit-box-shadow: 0px 0px 8px 6px rgba(112,7,7,0.84); 
+    box-shadow: 0px 0px 8px 6px rgba(112,7,7,0.84);
+} 
+section{
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bloc-e{
+    display: block;
+    width: 200px;
+    float: left;
+    margin-bottom: 40px;
+
+}
+.bloc-e img{
+    height: 250px;
+    width:175px;
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-box-shadow: 0px 0px 8px 6px rgba(112,7,7,0.84); 
+    box-shadow: 0px 0px 8px 6px rgba(112,7,7,0.84);
+}
+.bloc-e img:hover{
+    -webkit-box-shadow: 0px 0px 8px 6px rgba(255,255,255,0.84); 
+    box-shadow: 0px 0px 8px 6px rgba(255,255,255,0.84);
+}
